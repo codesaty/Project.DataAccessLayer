@@ -1,0 +1,14 @@
+﻿using Project.Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Project.Entities.Tangible
+{
+    public class Category:IEntity
+    {
+        public int CategoryId { get; set; }
+        public string CategoryName { get; set; }
+        public string Description { get; set; }
+    }
+}

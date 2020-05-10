@@ -1,0 +1,4 @@
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.dll
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfo.cs

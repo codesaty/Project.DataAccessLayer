@@ -1,0 +1,5 @@
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Core\bin\Debug\netcoreapp3.1\Project.Core.deps.json
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Core\bin\Debug\netcoreapp3.1\Project.Core.dll
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Core\obj\Debug\netcoreapp3.1\Project.Core.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Core\obj\Debug\netcoreapp3.1\Project.Core.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\Project.DataAccessLayer\Project.Core\obj\Debug\netcoreapp3.1\Project.Core.AssemblyInfo.cs
