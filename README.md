@@ -1,2 +1,2 @@
 # Project.DataAccessLayer
-.Net Core ile RepositoryPattern Kullanarak DataAccessLayer Katmanı Oluşturulması.
+ASP.NET Core ile RepositoryPattern Kullanarak DataAccessLayer Katmanı Oluşturulması.
